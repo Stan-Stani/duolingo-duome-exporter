@@ -1,5 +1,11 @@
 # Duolingo Duome Exporter
 
+## Purpose
+
+Duolingo has discontinued their list of words that you've encountered in a 
+language. This script leverages https://Duome.eu to generate the list of words you've
+encountered for a language.
+
 ## Instructions
 
 Navigate to https://duome.eu/username/progress where username is your duolingo
