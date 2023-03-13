@@ -1,0 +1,11 @@
+{
+  "name": "duolingo-duome-vocab-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stan Stanislaus AKA crucifixGlitch",
+  "license": "ISC"
+}
