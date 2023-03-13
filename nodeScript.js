@@ -2,6 +2,8 @@ const fs = require('fs');
 
 const str = fs.readFileSync('./duome.htm', {encoding: 'utf8'});
 
+// Thx to ChatGPT and https://regex101.com/ for aiding me in easily generating
+// this regex.
 const regex = /<b>.*?<a[^>]*>(?<vocabItem>[\p{L}\p{M}*]+)<\/a>.*?<\/b>/gu;
 
 

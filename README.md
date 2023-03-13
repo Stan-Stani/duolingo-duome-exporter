@@ -14,3 +14,6 @@ file as duome.htm in the directory of your local copy of this repo. Then simply
 run `node nodeScript.js`.
 
 (Only tested with Japanese but it should work with other languages.)
+
+(Thx to ChatGPT and https://regex101.com/ for aiding me in easily generating
+the regex.)
